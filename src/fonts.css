@@ -1,0 +1,5 @@
+@font-face {
+  font-family: Icofont;
+  src: url(/fonts/icofont.woff2), url(/fonts/icofont.woff),
+    url(/fonts/icofont.ttf), url(/fonts/icofont.eot);
+}

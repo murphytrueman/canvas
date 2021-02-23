@@ -6,7 +6,7 @@ const sizeEl = document.getElementById('size')
 const colorEl = document.getElementById('color')
 const ctx = canvas.getContext('2d')
 
-let size = 10
+let size = 5
 let isPressed = false
 let color = 'black'
 let x 
